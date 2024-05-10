@@ -1,6 +1,7 @@
 # Gemini Summarize Studio (Versão Prévia)
 
 Gemini Summarize Studio é uma aplicação web projetada para facilitar a criação de resumos e roteiros de aula. Esta é uma versão prévia do projeto, que pode apresentar falhas e bugs. Novos recursos estão em desenvolvimento e, em breve, a interface será reimaginada para proporcionar uma melhor experiência para os usuários.
+![image](https://github.com/Jeanpk12/Gemini-Resume-Composer/assets/122842874/6e4660df-6bd0-4ddb-9f66-ddfa106ba353)
 
 ## Filosofia
 
