@@ -4,18 +4,16 @@ Gemini Summarize Studio é uma aplicação web projetada para facilitar a criaç
 
 ## Filosofia
 
-<<<<<<< HEAD
 Acreditamos que a verdadeira inteligência por trás de bons resumos reside nos estudantes. 
 Nossa abordagem valoriza a colaboração entre humanos e tecnologia, reconhecendo que a IA pode ser uma ferramenta poderosa quando combinada com a criatividade e o conhecimento dos usuários. Em nossa aplicação, a IA é responsável por trazer uma base robusta para o resumo e o estudante fica encarregado de personalizá-lo e complementá-lo com as informações extraídas de seus estudos e pesquisas.
 
 O logo do Gemini Summarize Studio reflete essa filosofia, representando um cérebro composto por metade matéria biológica e metade circuitos de computadores. Esta simbiose entre humano e tecnologia é o cerne de nossa missão.
-=======
-No Gemini Resume Composer, acreditamos que a verdadeira arte de criar resumos e roteiros de aulas reside na capacidade humana de sintetizar conhecimentos. Valorizamos a colaboração entre humanos e tecnologia, reconhecendo que a inteligência artificial pode potencializar essa habilidade quando combinada com a criatividade e o conhecimento dos usuários.
+
+No Gemini Summarize Studio, acreditamos que a verdadeira arte de criar resumos e roteiros de aulas reside na capacidade humana de sintetizar conhecimentos. Valorizamos a colaboração entre humanos e tecnologia, reconhecendo que a inteligência artificial pode potencializar essa habilidade quando combinada com a criatividade e o conhecimento dos usuários.
 
 Em nossa abordagem, a IA atua como um parceiro, fornecendo uma base sólida para o resumo ou roteiro de aula. No entanto, é o estudante ou professor que assume o papel principal, personalizando e complementando essas informações com suas próprias experiências, pesquisas e insights.
 
 O logo do Gemini Resume Composer simboliza essa sinergia entre o cérebro humano e os circuitos de computadores. Ele representa a ideia de que, juntos, humanos e tecnologia podem alcançar um nível de inteligência e criatividade que seria impossível de atingir individualmente. Essa simbiose é o cerne da nossa missão: capacitar os usuários a aproveitar ao máximo seu potencial enquanto utilizam a tecnologia de forma inteligente e responsável.
->>>>>>> d9700bf329778b712c7270f7ad37bef798ef8264
 
 ## Funcionalidades
 
