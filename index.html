@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gemini Summarize Studio</title>
+  <link rel="stylesheet" href="src/style/style.css">
+  <link rel="shortcut icon" href="src/img/favicon.png" type="image/x-icon" id="favicon">
+  <!-- RemixIcon -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet">
+  <!-- ckeditor -->
+  <script src="https://cdn.ckeditor.com/ckeditor5/41.3.1/balloon/ckeditor.js"></script>
+  <!-- ckeditor -->
+</head>
+<body>
+  <div class="header hideToPrint">
+    <div class="logo">
+      <img src="src/img/logo.gif" alt="Logo">
+    </div>
+    <div class="navbar">
+      <a href="https://encurtador.com.br/aetAI" target="_blank" class="icon"><i class="ri-github-line" title="Detalhes do projeto"></i></a>
+      <a href="https://gemini.google.com/" target="_blank" class="icon"><i class="ri-google-line" title="Saiba mais sobre o Google Gemini"></i></a>
+    </div>
+  </div>
+  <div class="chat-container">
+    <h1 class="hideToPrint">Gemini Summarize Studio</h1>
+    <div class="chat-messages" id="chat-messages"></div>
+    <div class="user-input">
+      <input type="text" id="user-input" class="hideToPrint" placeholder="Digite ou cole um tópico que deve fazer parte do texto" autocomplete="off">
+      <button id="send-btn" title="Enviar"><i class="ri-pencil-line hideToPrint"></i></button>
+      <button id="print-pdf-btn" title="Imprimir"><i class="ri-printer-line hideToPrint"></i></button>
+    </div>
+  </div>
+  <!-- Marked -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- Marked -->
+  <!-- Google AI Generative -->
+  <script type="importmap">
+    {
+      "imports": {
+        "@google/generative-ai": "https://esm.run/@google/generative-ai"
+      }
+    }
+  </script>
+  <!-- Google AI Generative -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.2/Sortable.js" integrity="sha512-7uomMJLUlyzgg7Cu8C57a3XB/JX2fLV1mWES4FpvJm4QgC2WDsBDDeFfOQkGpCfZFjNLhBqsXavmRQGs8X1SBw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script type="module" src="src/javascript/chat.js"></script>
+</body>
+</html>
